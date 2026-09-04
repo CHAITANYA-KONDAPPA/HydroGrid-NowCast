@@ -1,0 +1,699 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d18" for="edge" attr.name="access" attr.type="string" />
+  <key id="d17" for="edge" attr.name="ref" attr.type="string" />
+  <key id="d16" for="edge" attr.name="geometry" attr.type="string" />
+  <key id="d15" for="edge" attr.name="lanes" attr.type="string" />
+  <key id="d14" for="edge" attr.name="capacity" attr.type="string" />
+  <key id="d13" for="edge" attr.name="length" attr.type="string" />
+  <key id="d12" for="edge" attr.name="reversed" attr.type="string" />
+  <key id="d11" for="edge" attr.name="oneway" attr.type="string" />
+  <key id="d10" for="edge" attr.name="name" attr.type="string" />
+  <key id="d9" for="edge" attr.name="highway" attr.type="string" />
+  <key id="d8" for="edge" attr.name="osmid" attr.type="string" />
+  <key id="d7" for="node" attr.name="highway" attr.type="string" />
+  <key id="d6" for="node" attr.name="street_count" attr.type="string" />
+  <key id="d5" for="node" attr.name="x" attr.type="string" />
+  <key id="d4" for="node" attr.name="y" attr.type="string" />
+  <key id="d3" for="graph" attr.name="simplified" attr.type="string" />
+  <key id="d2" for="graph" attr.name="crs" attr.type="string" />
+  <key id="d1" for="graph" attr.name="created_with" attr.type="string" />
+  <key id="d0" for="graph" attr.name="created_date" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="254497196">
+      <data key="d4">13.0842894</data>
+      <data key="d5">80.2704402</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="254497582">
+      <data key="d4">13.083466</data>
+      <data key="d5">80.2705721</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="254497595">
+      <data key="d4">13.0825329</data>
+      <data key="d5">80.2706992</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="254497596">
+      <data key="d4">13.082515</data>
+      <data key="d5">80.2704409</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="254497597">
+      <data key="d4">13.0825038</data>
+      <data key="d5">80.2700291</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="254497639">
+      <data key="d4">13.0813788</data>
+      <data key="d5">80.2702727</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="254497640">
+      <data key="d4">13.0830691</data>
+      <data key="d5">80.2706302</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="254497657">
+      <data key="d4">13.0830139</data>
+      <data key="d5">80.2705138</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="254497658">
+      <data key="d4">13.0808265</data>
+      <data key="d5">80.2701705</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="258902911">
+      <data key="d4">13.0810234</data>
+      <data key="d5">80.2702083</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="258902915">
+      <data key="d4">13.0839633</data>
+      <data key="d5">80.2704958</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="258915874">
+      <data key="d4">13.0812261</data>
+      <data key="d5">80.2706659</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="258915878">
+      <data key="d4">13.0817816</data>
+      <data key="d5">80.2706234</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="258915883">
+      <data key="d4">13.0818026</data>
+      <data key="d5">80.2707936</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="258915889">
+      <data key="d4">13.0817604</data>
+      <data key="d5">80.2703325</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="303283553">
+      <data key="d4">13.0814946</data>
+      <data key="d5">80.2732799</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="2214510019">
+      <data key="d4">13.0827296</data>
+      <data key="d5">80.2729249</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="2214510076">
+      <data key="d4">13.0828506</data>
+      <data key="d5">80.272898</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="2214510127">
+      <data key="d4">13.0842566</data>
+      <data key="d5">80.2705201</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="2214510152">
+      <data key="d4">13.0843346</data>
+      <data key="d5">80.2704317</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="9187378785">
+      <data key="d4">13.0820856</data>
+      <data key="d5">80.2703792</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9187378786">
+      <data key="d4">13.0821327</data>
+      <data key="d5">80.2700137</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="9572798757">
+      <data key="d4">13.0809032</data>
+      <data key="d5">80.271008</data>
+      <data key="d7">traffic_signals</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="10201011121">
+      <data key="d4">13.0811033</data>
+      <data key="d5">80.2713216</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="10201011144">
+      <data key="d4">13.0809633</data>
+      <data key="d5">80.2709194</data>
+      <data key="d7">traffic_signals</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="10201011147">
+      <data key="d4">13.0808678</data>
+      <data key="d5">80.2709372</data>
+      <data key="d7">traffic_signals</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="10201011149">
+      <data key="d4">13.0810014</data>
+      <data key="d5">80.2709854</data>
+      <data key="d7">traffic_signals</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="11292824785">
+      <data key="d4">13.0842968</data>
+      <data key="d5">80.270516</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="12419282611">
+      <data key="d4">13.081637</data>
+      <data key="d5">80.2739994</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="12419282612">
+      <data key="d4">13.0815287</data>
+      <data key="d5">80.2740083</data>
+      <data key="d6">3</data>
+    </node>
+    <edge source="254497196" target="2214510152" id="0">
+      <data key="d8">1218729896</data>
+      <data key="d9">secondary</data>
+      <data key="d10">Raja Muthiah Road</data>
+      <data key="d11">True</data>
+      <data key="d12">False</data>
+      <data key="d13">5.109637556630759</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497582" target="258902915" id="0">
+      <data key="d8">27618295</data>
+      <data key="d9">secondary</data>
+      <data key="d15">2</data>
+      <data key="d10">Raja Muthiah Road</data>
+      <data key="d11">True</data>
+      <data key="d12">False</data>
+      <data key="d13">55.91140974239214</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497595" target="254497596" id="0">
+      <data key="d8">23499984</data>
+      <data key="d9">residential</data>
+      <data key="d11">False</data>
+      <data key="d12">False</data>
+      <data key="d13">28.046934902000363</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497595" target="254497640" id="0">
+      <data key="d8">27618295</data>
+      <data key="d9">secondary</data>
+      <data key="d15">2</data>
+      <data key="d10">Raja Muthiah Road</data>
+      <data key="d11">True</data>
+      <data key="d12">False</data>
+      <data key="d13">60.08934320876761</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497596" target="254497595" id="0">
+      <data key="d8">23499984</data>
+      <data key="d9">residential</data>
+      <data key="d11">False</data>
+      <data key="d12">True</data>
+      <data key="d13">28.046934902000363</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497596" target="9187378785" id="0">
+      <data key="d8">23499992</data>
+      <data key="d9">residential</data>
+      <data key="d10">Varasidhi Vinayakar Koil Street</data>
+      <data key="d11">False</data>
+      <data key="d12">False</data>
+      <data key="d13">48.21255289840845</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497596" target="254497657" id="0">
+      <data key="d8">23499992</data>
+      <data key="d9">residential</data>
+      <data key="d10">Varasidhi Vinayakar Koil Street</data>
+      <data key="d11">False</data>
+      <data key="d12">True</data>
+      <data key="d13">56.03430408443263</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497596" target="254497597" id="0">
+      <data key="d8">23499984</data>
+      <data key="d9">residential</data>
+      <data key="d11">False</data>
+      <data key="d12">False</data>
+      <data key="d13">44.61904188604983</data>
+      <data key="d16">LINESTRING (80.2704409 13.082515, 80.2703201 13.0825117, 80.2701461 13.082507, 80.2700291 13.0825038)</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497597" target="9187378786" id="0">
+      <data key="d8">23887916</data>
+      <data key="d9">residential</data>
+      <data key="d11">False</data>
+      <data key="d12">False</data>
+      <data key="d13">41.29819228811334</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497597" target="254497596" id="0">
+      <data key="d8">23499984</data>
+      <data key="d9">residential</data>
+      <data key="d11">False</data>
+      <data key="d12">True</data>
+      <data key="d13">44.61904188604983</data>
+      <data key="d16">LINESTRING (80.2700291 13.0825038, 80.2701461 13.082507, 80.2703201 13.0825117, 80.2704409 13.082515)</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497639" target="258902911" id="0">
+      <data key="d8">23499992</data>
+      <data key="d9">residential</data>
+      <data key="d10">Varasidhi Vinayakar Koil Street</data>
+      <data key="d11">False</data>
+      <data key="d12">False</data>
+      <data key="d13">40.129575057121514</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497639" target="258915889" id="0">
+      <data key="d8">23499992</data>
+      <data key="d9">residential</data>
+      <data key="d10">Varasidhi Vinayakar Koil Street</data>
+      <data key="d11">False</data>
+      <data key="d12">True</data>
+      <data key="d13">42.923520896670574</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497640" target="254497657" id="0">
+      <data key="d8">23499991</data>
+      <data key="d9">residential</data>
+      <data key="d10">Muthu Gramani Street</data>
+      <data key="d11">False</data>
+      <data key="d12">False</data>
+      <data key="d13">14.021937418489719</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497640" target="254497582" id="0">
+      <data key="d8">27618295</data>
+      <data key="d9">secondary</data>
+      <data key="d15">2</data>
+      <data key="d10">Raja Muthiah Road</data>
+      <data key="d11">True</data>
+      <data key="d12">False</data>
+      <data key="d13">44.58202187315983</data>
+      <data key="d16">LINESTRING (80.2706302 13.0830691, 80.2705922 13.0833146, 80.2705721 13.083466)</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497657" target="254497640" id="0">
+      <data key="d8">23499991</data>
+      <data key="d9">residential</data>
+      <data key="d10">Muthu Gramani Street</data>
+      <data key="d11">False</data>
+      <data key="d12">True</data>
+      <data key="d13">14.021937418489719</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497657" target="254497596" id="0">
+      <data key="d8">23499992</data>
+      <data key="d9">residential</data>
+      <data key="d10">Varasidhi Vinayakar Koil Street</data>
+      <data key="d11">False</data>
+      <data key="d12">False</data>
+      <data key="d13">56.03430408443263</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497658" target="258902911" id="0">
+      <data key="d8">23499992</data>
+      <data key="d9">residential</data>
+      <data key="d10">Varasidhi Vinayakar Koil Street</data>
+      <data key="d11">False</data>
+      <data key="d12">True</data>
+      <data key="d13">22.27381004619727</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="254497658" target="10201011144" id="0">
+      <data key="d8">1149875531</data>
+      <data key="d9">primary</data>
+      <data key="d15">2</data>
+      <data key="d10">EVR Periyar Salai</data>
+      <data key="d11">True</data>
+      <data key="d17">SHU86</data>
+      <data key="d12">False</data>
+      <data key="d13">83.80309253303734</data>
+      <data key="d16">LINESTRING (80.2701705 13.0808265, 80.2703261 13.0808312, 80.2704752 13.0808409, 80.2706265 13.0808548, 80.2706719 13.0808618, 80.2707265 13.0808734, 80.2707552 13.0808815, 80.2707888 13.080893, 80.270857 13.0809267, 80.2709194 13.0809633)</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="258902911" target="254497658" id="0">
+      <data key="d8">23499992</data>
+      <data key="d9">residential</data>
+      <data key="d10">Varasidhi Vinayakar Koil Street</data>
+      <data key="d11">False</data>
+      <data key="d12">False</data>
+      <data key="d13">22.27381004619727</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="258902911" target="254497639" id="0">
+      <data key="d8">23499992</data>
+      <data key="d9">residential</data>
+      <data key="d10">Varasidhi Vinayakar Koil Street</data>
+      <data key="d11">False</data>
+      <data key="d12">True</data>
+      <data key="d13">40.129575057121514</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="258902915" target="254497196" id="0">
+      <data key="d8">1419877429</data>
+      <data key="d9">secondary</data>
+      <data key="d15">2</data>
+      <data key="d10">Raja Muthiah Road</data>
+      <data key="d11">True</data>
+      <data key="d12">False</data>
+      <data key="d13">36.78589800514806</data>
+      <data key="d16">LINESTRING (80.2704958 13.0839633, 80.2704649 13.084182, 80.2704402 13.0842894)</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="258915874" target="258915878" id="0">
+      <data key="d8">217682163</data>
+      <data key="d9">residential</data>
+      <data key="d10">Santhu Shah Street</data>
+      <data key="d11">False</data>
+      <data key="d12">False</data>
+      <data key="d13">61.940150073115376</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="258915878" target="258915889" id="0">
+      <data key="d8">23887928</data>
+      <data key="d9">residential</data>
+      <data key="d10">Selvam Street</data>
+      <data key="d11">False</data>
+      <data key="d12">False</data>
+      <data key="d13">31.595254175718775</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="258915878" target="258915883" id="0">
+      <data key="d8">23887928</data>
+      <data key="d9">residential</data>
+      <data key="d10">Selvam Street</data>
+      <data key="d11">False</data>
+      <data key="d12">True</data>
+      <data key="d13">18.581556858687943</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="258915878" target="258915874" id="0">
+      <data key="d8">217682163</data>
+      <data key="d9">residential</data>
+      <data key="d10">Santhu Shah Street</data>
+      <data key="d11">False</data>
+      <data key="d12">True</data>
+      <data key="d13">61.940150073115376</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="258915883" target="258915878" id="0">
+      <data key="d8">23887928</data>
+      <data key="d9">residential</data>
+      <data key="d10">Selvam Street</data>
+      <data key="d11">False</data>
+      <data key="d12">False</data>
+      <data key="d13">18.581556858687943</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="258915883" target="254497595" id="0">
+      <data key="d8">27618295</data>
+      <data key="d9">secondary</data>
+      <data key="d15">2</data>
+      <data key="d10">Raja Muthiah Road</data>
+      <data key="d11">True</data>
+      <data key="d12">False</data>
+      <data key="d13">81.84690037141738</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="258915889" target="254497639" id="0">
+      <data key="d8">23499992</data>
+      <data key="d9">residential</data>
+      <data key="d10">Varasidhi Vinayakar Koil Street</data>
+      <data key="d11">False</data>
+      <data key="d12">False</data>
+      <data key="d13">42.923520896670574</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="258915889" target="9187378785" id="0">
+      <data key="d8">23499992</data>
+      <data key="d9">residential</data>
+      <data key="d10">Varasidhi Vinayakar Koil Street</data>
+      <data key="d11">False</data>
+      <data key="d12">True</data>
+      <data key="d13">36.51267970514292</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="258915889" target="258915878" id="0">
+      <data key="d8">23887928</data>
+      <data key="d9">residential</data>
+      <data key="d10">Selvam Street</data>
+      <data key="d11">False</data>
+      <data key="d12">True</data>
+      <data key="d13">31.595254175718775</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="303283553" target="12419282611" id="0">
+      <data key="d8">23499970</data>
+      <data key="d9">primary</data>
+      <data key="d10">General Hospital Road</data>
+      <data key="d11">True</data>
+      <data key="d17">SHU86</data>
+      <data key="d12">False</data>
+      <data key="d13">79.52825065894476</data>
+      <data key="d16">LINESTRING (80.2732799 13.0814946, 80.2733598 13.0815109, 80.2735908 13.0815574, 80.2737412 13.0815876, 80.2739558 13.0816307, 80.2739994 13.081637)</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="303283553" target="2214510019" id="0">
+      <data key="d8">[23885104, 1285482053, 567365638]</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">False</data>
+      <data key="d12">[False, True]</data>
+      <data key="d13">151.87228084259306</data>
+      <data key="d16">LINESTRING (80.2732799 13.0814946, 80.2732079 13.0818836, 80.2731594 13.0820798, 80.2730761 13.0824918, 80.2730552 13.0826439, 80.2730543 13.082712, 80.2729249 13.0827296)</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="2214510019" target="303283553" id="0">
+      <data key="d8">[23885104, 1285482053, 567365638]</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">False</data>
+      <data key="d12">[False, True]</data>
+      <data key="d13">151.87228084259306</data>
+      <data key="d16">LINESTRING (80.2729249 13.0827296, 80.2730543 13.082712, 80.2730552 13.0826439, 80.2730761 13.0824918, 80.2731594 13.0820798, 80.2732079 13.0818836, 80.2732799 13.0814946)</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="2214510019" target="2214510127" id="0">
+      <data key="d8">[567365640, 1419877430, 567365638]</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">False</data>
+      <data key="d12">[False, True]</data>
+      <data key="d13">389.94396936471185</data>
+      <data key="d16">LINESTRING (80.2729249 13.0827296, 80.2724832 13.0826638, 80.272391 13.0829411, 80.2721093 13.0835307, 80.2720669 13.0835747, 80.2720105 13.0836142, 80.2719415 13.0836297, 80.2718602 13.0836369, 80.271081 13.0835668, 80.2710487 13.0835628, 80.2710206 13.0835758, 80.2710117 13.0835937, 80.2708938 13.0842273, 80.2708322 13.0842289, 80.2705201 13.0842566)</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="2214510019" target="2214510076" id="0">
+      <data key="d8">1287583922</data>
+      <data key="d18">permissive</data>
+      <data key="d9">living_street</data>
+      <data key="d11">False</data>
+      <data key="d12">False</data>
+      <data key="d13">13.767111684742227</data>
+      <data key="d16">LINESTRING (80.2729249 13.0827296, 80.272908 13.0828028, 80.272898 13.0828506)</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="2214510076" target="2214510019" id="0">
+      <data key="d8">1287583922</data>
+      <data key="d18">permissive</data>
+      <data key="d9">living_street</data>
+      <data key="d11">False</data>
+      <data key="d12">True</data>
+      <data key="d13">13.767111684742227</data>
+      <data key="d16">LINESTRING (80.272898 13.0828506, 80.272908 13.0828028, 80.2729249 13.0827296)</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="2214510127" target="254497196" id="0">
+      <data key="d8">26491967</data>
+      <data key="d9">secondary</data>
+      <data key="d10">Vepery High Road</data>
+      <data key="d11">True</data>
+      <data key="d12">False</data>
+      <data key="d13">9.390996866106082</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="2214510127" target="10201011121" id="0">
+      <data key="d8">[1188631353, 211435484, 1115397693]</data>
+      <data key="d9">['secondary_link', 'secondary']</data>
+      <data key="d15">2</data>
+      <data key="d10">Raja Muthiah Road</data>
+      <data key="d11">True</data>
+      <data key="d12">False</data>
+      <data key="d13">382.83353592190105</data>
+      <data key="d16">LINESTRING (80.2705201 13.0842566, 80.270656 13.0833269, 80.270875 13.0817452, 80.2709108 13.0814726, 80.2709135 13.0814521, 80.2709288 13.0813354, 80.2709484 13.081272, 80.2709678 13.0812374, 80.2709873 13.0812086, 80.2710054 13.0811919, 80.2710362 13.0811668, 80.2710717 13.0811453, 80.2711214 13.0811231, 80.271179 13.0811087, 80.2712313 13.0811041, 80.2712682 13.0811015, 80.2713216 13.0811033)</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="2214510127" target="2214510019" id="0">
+      <data key="d8">[567365640, 1419877430, 567365638]</data>
+      <data key="d9">tertiary</data>
+      <data key="d11">False</data>
+      <data key="d12">[False, True]</data>
+      <data key="d13">389.94396936471185</data>
+      <data key="d16">LINESTRING (80.2705201 13.0842566, 80.2708322 13.0842289, 80.2708938 13.0842273, 80.2710117 13.0835937, 80.2710206 13.0835758, 80.2710487 13.0835628, 80.271081 13.0835668, 80.2718602 13.0836369, 80.2719415 13.0836297, 80.2720105 13.0836142, 80.2720669 13.0835747, 80.2721093 13.0835307, 80.272391 13.0829411, 80.2724832 13.0826638, 80.2729249 13.0827296)</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="2214510152" target="11292824785" id="0">
+      <data key="d8">1218729897</data>
+      <data key="d9">secondary</data>
+      <data key="d10">Vepery High Road</data>
+      <data key="d11">True</data>
+      <data key="d12">False</data>
+      <data key="d13">10.051397296134386</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="9187378785" target="258915889" id="0">
+      <data key="d8">23499992</data>
+      <data key="d9">residential</data>
+      <data key="d10">Varasidhi Vinayakar Koil Street</data>
+      <data key="d11">False</data>
+      <data key="d12">False</data>
+      <data key="d13">36.51267970514292</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="9187378785" target="254497596" id="0">
+      <data key="d8">23499992</data>
+      <data key="d9">residential</data>
+      <data key="d10">Varasidhi Vinayakar Koil Street</data>
+      <data key="d11">False</data>
+      <data key="d12">True</data>
+      <data key="d13">48.21255289840845</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="9187378785" target="9187378786" id="0">
+      <data key="d8">994918887</data>
+      <data key="d9">residential</data>
+      <data key="d11">False</data>
+      <data key="d12">False</data>
+      <data key="d13">39.93195285946148</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="9187378786" target="254497597" id="0">
+      <data key="d8">23887916</data>
+      <data key="d9">residential</data>
+      <data key="d11">False</data>
+      <data key="d12">True</data>
+      <data key="d13">41.29819228811334</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="9187378786" target="9187378785" id="0">
+      <data key="d8">994918887</data>
+      <data key="d9">residential</data>
+      <data key="d11">False</data>
+      <data key="d12">True</data>
+      <data key="d13">39.93195285946148</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="9572798757" target="10201011147" id="0">
+      <data key="d8">1349716692</data>
+      <data key="d9">primary</data>
+      <data key="d15">2</data>
+      <data key="d10">EVR Periyar Salai</data>
+      <data key="d11">True</data>
+      <data key="d17">SHU86</data>
+      <data key="d12">False</data>
+      <data key="d13">8.619616260718539</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="10201011121" target="303283553" id="0">
+      <data key="d8">23499970</data>
+      <data key="d9">primary</data>
+      <data key="d10">General Hospital Road</data>
+      <data key="d11">True</data>
+      <data key="d17">SHU86</data>
+      <data key="d12">False</data>
+      <data key="d13">216.64485250970898</data>
+      <data key="d16">LINESTRING (80.2713216 13.0811033, 80.2713544 13.0811114, 80.2714499 13.0811351, 80.2715065 13.0811492, 80.2716228 13.0811767, 80.2717781 13.0812093, 80.2719158 13.0812369, 80.2721001 13.081276, 80.2721865 13.0812881, 80.2722929 13.0813026, 80.2723556 13.0813124, 80.2724185 13.0813221, 80.2724913 13.0813321, 80.2725724 13.0813469, 80.2725953 13.0813518, 80.2728015 13.081395, 80.2729465 13.0814299, 80.2729938 13.0814413, 80.2731477 13.0814696, 80.2732799 13.0814946)</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="10201011144" target="10201011149" id="0">
+      <data key="d8">1349155568</data>
+      <data key="d9">primary</data>
+      <data key="d10">General Hospital Road</data>
+      <data key="d11">True</data>
+      <data key="d17">SHU86</data>
+      <data key="d12">False</data>
+      <data key="d13">8.309536997511465</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="10201011144" target="258915883" id="0">
+      <data key="d8">27618295</data>
+      <data key="d9">secondary</data>
+      <data key="d15">2</data>
+      <data key="d10">Raja Muthiah Road</data>
+      <data key="d11">True</data>
+      <data key="d12">False</data>
+      <data key="d13">94.36603475268576</data>
+      <data key="d16">LINESTRING (80.2709194 13.0809633, 80.2709107 13.0809906, 80.2709032 13.0810279, 80.2708955 13.0810773, 80.2708824 13.0811716, 80.2708478 13.0814411, 80.2707936 13.0818026)</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="10201011147" target="10201011144" id="0">
+      <data key="d8">1115397694</data>
+      <data key="d9">secondary</data>
+      <data key="d10">Raja Muthiah Road</data>
+      <data key="d11">True</data>
+      <data key="d12">False</data>
+      <data key="d13">10.792718917191042</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="10201011149" target="9572798757" id="0">
+      <data key="d8">1349155567</data>
+      <data key="d9">secondary</data>
+      <data key="d15">2</data>
+      <data key="d10">Raja Muthiah Road</data>
+      <data key="d11">True</data>
+      <data key="d12">False</data>
+      <data key="d13">11.190356761481366</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="10201011149" target="10201011121" id="0">
+      <data key="d8">[23499970, 1115397695]</data>
+      <data key="d9">primary</data>
+      <data key="d10">General Hospital Road</data>
+      <data key="d11">True</data>
+      <data key="d17">SHU86</data>
+      <data key="d12">False</data>
+      <data key="d13">38.23505374388246</data>
+      <data key="d16">LINESTRING (80.2709854 13.0810014, 80.2710253 13.0810203, 80.2710633 13.0810355, 80.271122 13.0810532, 80.2713216 13.0811033)</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="11292824785" target="2214510127" id="0">
+      <data key="d8">1218729898</data>
+      <data key="d9">secondary</data>
+      <data key="d10">Raja Muthiah Road</data>
+      <data key="d11">True</data>
+      <data key="d12">False</data>
+      <data key="d13">4.492045351282066</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="12419282611" target="12419282612" id="0">
+      <data key="d8">1342384938</data>
+      <data key="d9">primary_link</data>
+      <data key="d11">True</data>
+      <data key="d12">False</data>
+      <data key="d13">12.080946526386608</data>
+      <data key="d14">100</data>
+    </edge>
+    <edge source="12419282612" target="9572798757" id="0">
+      <data key="d8">[822593939, 214413807]</data>
+      <data key="d9">primary</data>
+      <data key="d15">3</data>
+      <data key="d10">General Hospital Road</data>
+      <data key="d11">True</data>
+      <data key="d17">SHU86</data>
+      <data key="d12">False</data>
+      <data key="d13">332.65327678540143</data>
+      <data key="d16">LINESTRING (80.2740083 13.0815287, 80.2739881 13.081527, 80.2733909 13.0814038, 80.2732573 13.0813763, 80.272628 13.0812539, 80.2719336 13.0811418, 80.2718001 13.081115, 80.2715394 13.081052, 80.2712852 13.080987, 80.2711799 13.0809604, 80.2710924 13.080936, 80.2710468 13.08092, 80.271008 13.0809032)</data>
+      <data key="d14">100</data>
+    </edge>
+    <data key="d0">2026-09-04 15:52:31</data>
+    <data key="d1">OSMnx 2.0.7</data>
+    <data key="d2">epsg:4326</data>
+    <data key="d3">True</data>
+  </graph>
+</graphml>

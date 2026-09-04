@@ -1,0 +1,215 @@
+{
+  "timestamp": 17,
+  "nodes": [
+    {
+      "osmid": 254497196,
+      "lat": 13.0842894,
+      "lon": 80.2704402,
+      "water_depth_cm": 2.4,
+      "surcharged": true
+    },
+    {
+      "osmid": 254497582,
+      "lat": 13.083466,
+      "lon": 80.2705721,
+      "water_depth_cm": 10.8,
+      "surcharged": true
+    },
+    {
+      "osmid": 254497595,
+      "lat": 13.0825329,
+      "lon": 80.2706992,
+      "water_depth_cm": 0.0,
+      "surcharged": false
+    },
+    {
+      "osmid": 254497596,
+      "lat": 13.082515,
+      "lon": 80.2704409,
+      "water_depth_cm": 0.0,
+      "surcharged": false
+    },
+    {
+      "osmid": 254497597,
+      "lat": 13.0825038,
+      "lon": 80.2700291,
+      "water_depth_cm": 0.0,
+      "surcharged": false
+    },
+    {
+      "osmid": 254497639,
+      "lat": 13.0813788,
+      "lon": 80.2702727,
+      "water_depth_cm": 14.4,
+      "surcharged": true
+    },
+    {
+      "osmid": 254497640,
+      "lat": 13.0830691,
+      "lon": 80.2706302,
+      "water_depth_cm": 10.05,
+      "surcharged": true
+    },
+    {
+      "osmid": 254497657,
+      "lat": 13.0830139,
+      "lon": 80.2705138,
+      "water_depth_cm": 15.45,
+      "surcharged": true
+    },
+    {
+      "osmid": 254497658,
+      "lat": 13.0808265,
+      "lon": 80.2701705,
+      "water_depth_cm": 9.15,
+      "surcharged": true
+    },
+    {
+      "osmid": 258902911,
+      "lat": 13.0810234,
+      "lon": 80.2702083,
+      "water_depth_cm": 7.05,
+      "surcharged": true
+    },
+    {
+      "osmid": 258902915,
+      "lat": 13.0839633,
+      "lon": 80.2704958,
+      "water_depth_cm": 9.9,
+      "surcharged": true
+    },
+    {
+      "osmid": 258915874,
+      "lat": 13.0812261,
+      "lon": 80.2706659,
+      "water_depth_cm": 11.4,
+      "surcharged": true
+    },
+    {
+      "osmid": 258915878,
+      "lat": 13.0817816,
+      "lon": 80.2706234,
+      "water_depth_cm": 0.0,
+      "surcharged": false
+    },
+    {
+      "osmid": 258915883,
+      "lat": 13.0818026,
+      "lon": 80.2707936,
+      "water_depth_cm": 3.3,
+      "surcharged": true
+    },
+    {
+      "osmid": 258915889,
+      "lat": 13.0817604,
+      "lon": 80.2703325,
+      "water_depth_cm": 2.7,
+      "surcharged": true
+    },
+    {
+      "osmid": 303283553,
+      "lat": 13.0814946,
+      "lon": 80.2732799,
+      "water_depth_cm": 3.75,
+      "surcharged": true
+    },
+    {
+      "osmid": 2214510019,
+      "lat": 13.0827296,
+      "lon": 80.2729249,
+      "water_depth_cm": 12.45,
+      "surcharged": true
+    },
+    {
+      "osmid": 2214510076,
+      "lat": 13.0828506,
+      "lon": 80.272898,
+      "water_depth_cm": 0.0,
+      "surcharged": false
+    },
+    {
+      "osmid": 2214510127,
+      "lat": 13.0842566,
+      "lon": 80.2705201,
+      "water_depth_cm": 4.5,
+      "surcharged": true
+    },
+    {
+      "osmid": 2214510152,
+      "lat": 13.0843346,
+      "lon": 80.2704317,
+      "water_depth_cm": 0.0,
+      "surcharged": false
+    },
+    {
+      "osmid": 9187378785,
+      "lat": 13.0820856,
+      "lon": 80.2703792,
+      "water_depth_cm": 0.0,
+      "surcharged": false
+    },
+    {
+      "osmid": 9187378786,
+      "lat": 13.0821327,
+      "lon": 80.2700137,
+      "water_depth_cm": 8.1,
+      "surcharged": true
+    },
+    {
+      "osmid": 9572798757,
+      "lat": 13.0809032,
+      "lon": 80.271008,
+      "water_depth_cm": 18.15,
+      "surcharged": true
+    },
+    {
+      "osmid": 10201011121,
+      "lat": 13.0811033,
+      "lon": 80.2713216,
+      "water_depth_cm": 17.85,
+      "surcharged": true
+    },
+    {
+      "osmid": 10201011144,
+      "lat": 13.0809633,
+      "lon": 80.2709194,
+      "water_depth_cm": 8.1,
+      "surcharged": true
+    },
+    {
+      "osmid": 10201011147,
+      "lat": 13.0808678,
+      "lon": 80.2709372,
+      "water_depth_cm": 12.15,
+      "surcharged": true
+    },
+    {
+      "osmid": 10201011149,
+      "lat": 13.0810014,
+      "lon": 80.2709854,
+      "water_depth_cm": 12.0,
+      "surcharged": true
+    },
+    {
+      "osmid": 11292824785,
+      "lat": 13.0842968,
+      "lon": 80.270516,
+      "water_depth_cm": 1.05,
+      "surcharged": true
+    },
+    {
+      "osmid": 12419282611,
+      "lat": 13.081637,
+      "lon": 80.2739994,
+      "water_depth_cm": 0.0,
+      "surcharged": false
+    },
+    {
+      "osmid": 12419282612,
+      "lat": 13.0815287,
+      "lon": 80.2740083,
+      "water_depth_cm": 0.0,
+      "surcharged": false
+    }
+  ]
+}
