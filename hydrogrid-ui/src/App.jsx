@@ -1,8 +1,7 @@
 import { useState, useEffect } from 'react'
 import DeckGL from '@deck.gl/react'
 import { ScatterplotLayer, PathLayer } from '@deck.gl/layers'
-import Map from 'react-map-gl/maplibre'
-import * as maplibregl from 'maplibre-gl'
+import { Map } from 'react-map-gl/maplibre'
 import 'maplibre-gl/dist/maplibre-gl.css'
 
 const INITIAL_VIEW_STATE = {
@@ -120,12 +119,18 @@ export default function App() {
           safe: safePathFull,
         })
 
-        if (safePathFull.length > 0) {
+        const surchargedInfo = data.surcharged_count != null
+          ? ` | ${data.surcharged_count}/${data.total_nodes} nodes flooded`
+          : ''
+
+        if (safePathFull.length > 0 && data.paths_differ) {
           setRouteStatus(
-            `Routes resolved: Safe (${safePathFull.length} pts) vs Baseline (${normalPathFull.length} pts)`
+            `Routes diverge! Safe (${safePathFull.length} pts) vs Baseline (${normalPathFull.length} pts)${surchargedInfo}`
           )
-        } else if (normalPathFull.length > 0) {
-          setRouteStatus('Baseline route available; safe detour currently impassable.')
+        } else if (safePathFull.length > 0) {
+          setRouteStatus(
+            `Routes identical — no flood-free detour exists for these waypoints${surchargedInfo}`
+          )
         } else {
           setRouteStatus('No viable paths between selected waypoints.')
         }
@@ -497,9 +502,10 @@ export default function App() {
         getCursor={({ isHovering }) => (isHovering ? 'pointer' : 'crosshair')}
       >
         <Map
-          mapLib={maplibregl}
+          initialViewState={INITIAL_VIEW_STATE}
           mapStyle="https://basemaps.cartocdn.com/gl/positron-gl-style/style.json"
           reuseMaps
+          style={{ width: '100%', height: '100%' }}
         />
       </DeckGL>
 

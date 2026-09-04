@@ -170,7 +170,21 @@ def get_safe_route(
         normal_coords = [[G.nodes[n]['x'], G.nodes[n]['y']] for n in normal_path_nodes]
         safe_coords = [[G.nodes[n]['x'], G.nodes[n]['y']] for n in safe_path_nodes]
 
-    return {"normal_path": normal_coords, "safe_path": safe_coords, "path": safe_coords}
+    paths_differ = normal_path_nodes != safe_path_nodes
+    logger.info(
+        f"Route T={timestamp}: {len(surcharged_nodes)} surcharged, "
+        f"normal={len(normal_path_nodes)} nodes, safe={len(safe_path_nodes)} nodes, "
+        f"diverge={paths_differ}"
+    )
+
+    return {
+        "normal_path": normal_coords,
+        "safe_path": safe_coords,
+        "path": safe_coords,
+        "surcharged_count": len(surcharged_nodes),
+        "total_nodes": len(G.nodes),
+        "paths_differ": paths_differ,
+    }
 
 
 if __name__ == "__main__":
